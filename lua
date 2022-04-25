@@ -242,4 +242,4 @@ function RUN_FUNCTION(name, extension, configOpt)
         
     end)
 end
-return RUN_FUNCTION;(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/Script"))()
+return RUN_FUNCTION;
